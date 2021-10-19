@@ -3,7 +3,7 @@ function App() {
   return (
     <>
       <GlobalStyle />
-      <header></header>
+      <header className=""></header>
       <main></main>
       <footer></footer>
     </>
